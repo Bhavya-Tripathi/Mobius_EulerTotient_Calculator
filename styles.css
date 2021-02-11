@@ -37,4 +37,12 @@ footer{
     .card{
         height: fit-content;
     }
+    h1{
+        font-size: xx-large;
+    }
+    .btn-lg{
+        
+        font-size: 16px;
+        margin-top: 5% 0 ;
+    }
 }
