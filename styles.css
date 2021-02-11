@@ -1,0 +1,40 @@
+body{
+    text-align: center;
+    background-color: #200f21;
+    
+}
+.card{
+    text-align: center;
+    margin: 2% 5%;
+    height: 90%;
+    
+}
+.row{
+    
+    padding: 7% 10%;
+}
+.btn-lg{
+    margin: 5% 8% 0 8%;
+}
+.input{
+    text-align: left;
+    padding-bottom: 2%;
+}
+.info{
+    text-align: left;
+    padding: 5%;
+}
+.result{
+    text-align: center;
+    padding-top: 5%;
+    font-size: large;
+    font-weight: bold;
+}
+footer{
+    color: white;
+}
+@media(max-width:700px){
+    .card{
+        height: fit-content;
+    }
+}
